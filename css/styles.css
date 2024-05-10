@@ -1170,7 +1170,8 @@ img {
     text-align: start;
   }
   .footer-container-wrap {
-    /* margin-right: 120px; */
+    margin-left: 0;
+    margin-right: 120px;
   }
   .footer-form-wrap {
     width: 453px;
