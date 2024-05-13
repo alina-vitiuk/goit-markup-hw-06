@@ -562,12 +562,15 @@ img {
 /* ============================footer============================ */
 
 .footer {
-  background: #2e2f42;
+  /* background-color: #2e2f42;
   padding-top: 96px;
-  padding-bottom: 96px;
+  padding-bottom: 96px; */
 }
 
 .footer-container {
+  background-color: #2e2f42;
+  padding-top: 96px;
+  padding-bottom: 96px;
   display: flex;
   flex-wrap: wrap;
   row-gap: 72px;
